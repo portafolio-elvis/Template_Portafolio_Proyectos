@@ -2,7 +2,7 @@
 
 Sitio web de portafolio profesional construido con Node.js y Express. Presenta tus proyectos, habilidades y formas de contacto.
 
-![Portafolio Preview](public/images/portada-portafolio.png)
+![Portafolio Preview](public/images/portada-portafolio_2.png)
 
 🔗 **Demo en vivo:** [tu-usuario.vercel.app](https://tu-usuario.vercel.app)
 
